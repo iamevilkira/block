@@ -6,3 +6,7 @@
 127.0.0.1 www.urlebird.com
 ::1 urlebird.com
 ::1 www.urlebird.com
+127.0.0.1 www.google.com
+127.0.0.1 google.com
+::1 www.google.com
+::1 google.com

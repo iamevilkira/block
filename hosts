@@ -10,3 +10,12 @@
 127.0.0.1 google.com
 ::1 www.google.com
 ::1 google.com
+::1 www.t.me
+::1 t.me
+127.0.0.1 www.t.me
+127.0.0.1 t.me
+127.0.0.1 telegram.org
+::1 telegram.org
+127.0.0.1 www.telegram.org
+::1 www.telegram.org
+
